@@ -1,4 +1,3 @@
-#!bin/bash
-eeecho "The school is open!"
+#!/bin/bash
 eeecho "Best School"
 
