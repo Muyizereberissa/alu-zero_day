@@ -1,4 +1,4 @@
 #!bin/bash
-eeecho "This School is so cool"
 eeecho "The school is open!"
+eeecho "Best School"
 
